@@ -12,6 +12,11 @@
 
 ## 🚀 Использование
 1. **Добавьте список device_id** в device_ids.txt, каждый с новой строки.
+   ```txt
+   e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+   e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+   e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+   e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 2. **Запустите скрипт**:
    ```txt
    python main.py
