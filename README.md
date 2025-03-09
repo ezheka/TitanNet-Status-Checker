@@ -38,14 +38,14 @@
    ```json
     {
         "Online": [
-            "e_863d2b23-aeda-4e1a-b8ab-166583be43f6",
-            "e_091e71ca-947d-4442-92b4-b7052056ea1d"
+            "e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+            "e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         ],
         "Offline": [
-            "e_396aa29c-545d-4df7-a8b8-b529cebdc504"
+            "e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         ],
         "Статус не найден": [
-            "e_2b20b879-9ec2-428b-b46d-6e4347fff65e"
+            "e_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         ]
     }
    ```
