@@ -44,8 +44,9 @@
         ]
     }
    ```
+
 ## 🛠 Требования
-Python 3.8+
-Google Microsoft Edge
-Selenium
-WebDriver Manager
+- **Python 3.8+**
+- **Google Chrome / Microsoft Edge**
+- **Selenium**
+- **WebDriver Manager**
